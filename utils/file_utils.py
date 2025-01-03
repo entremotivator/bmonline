@@ -1,5 +1,4 @@
 import io
-from fpdf import FPDF
 import pandas as pd
 
 def download_pdf(content, filename):
