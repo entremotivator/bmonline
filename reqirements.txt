@@ -7,3 +7,4 @@ pandas
 openai
 numpy
 python-dotenv
+fpdf==1.7.2
